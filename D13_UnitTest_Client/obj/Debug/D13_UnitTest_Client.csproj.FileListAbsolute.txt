@@ -1,0 +1,7 @@
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Client\bin\Debug\BankAccountClient.exe.config
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Client\bin\Debug\BankAccountClient.exe
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Client\bin\Debug\BankAccountClient.pdb
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Client\obj\Debug\D13_UnitTest_Client.csproj.CoreCompileInputs.cache
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Client\obj\Debug\BankAccountClient.exe
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Client\obj\Debug\BankAccountClient.pdb
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Client\obj\Debug\D13_UnitTest_Client.csproj.AssemblyReference.cache

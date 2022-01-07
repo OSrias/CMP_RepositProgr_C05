@@ -1,0 +1,18 @@
+/*
+        $(document).ready
+            (
+
+                function () {
+
+                    // O evento hover pode substituir o mouseenter + mouseleave
+
+                    $("#h2Title").mouseenter(function () { $(this).addClass("BackgroundColorYellow"); });
+
+                    $("#h2Title").mouseleave(function () { $(this).removeClass("BackgroundColorYellow"); });
+
+                    $("p").click(function () { $(this).hide() });
+
+                }
+
+            )
+            */

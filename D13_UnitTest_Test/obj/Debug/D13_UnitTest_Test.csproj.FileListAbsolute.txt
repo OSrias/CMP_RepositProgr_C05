@@ -1,0 +1,17 @@
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\obj\Debug\D13_UnitTest_Test.csproj.AssemblyReference.cache
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\obj\Debug\D13_UnitTest_Test.csproj.CoreCompileInputs.cache
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\bin\Debug\BankAccountTests.dll
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\bin\Debug\BankAccountTests.pdb
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\bin\Debug\BankAccountClient.exe
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\bin\Debug\BankAccountClient.pdb
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\bin\Debug\BankAccountClient.exe.config
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\obj\Debug\D13_UnitTest_Test.csproj.CopyComplete
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\obj\Debug\BankAccountTests.dll
+C:\_APC_CP_2021\C04_FE\17_2021-12-20\FE\D13_UnitTest_Test\obj\Debug\BankAccountTests.pdb
